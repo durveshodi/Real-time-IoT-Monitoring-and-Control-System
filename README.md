@@ -69,9 +69,7 @@ Follow these steps to set up and run the project:
 
 4. You can also manually update the database values by interacting with the NodeMCU using the provided API functions.
 
-### 6. Controlling NodeMCU Pins via
-
- API
+### 6. Controlling NodeMCU Pins
 
 To control the NodeMCU pins via POST requests, use the following JSON data for different actions:
 
