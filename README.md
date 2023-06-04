@@ -1,4 +1,3 @@
-```markdown
 # Real-time IoT Monitoring and Control System
 
 This project demonstrates real-time database updates using NodeMCU (ESP8266) and PHP. It allows you to update and retrieve data from a MySQL database using PHP scripts, and display the data in real-time on a web page. Additionally, it provides functionality to control NodeMCU pins via POST requests.
